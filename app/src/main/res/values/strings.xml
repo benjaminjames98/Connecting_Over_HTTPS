@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Connecting_Over_HTTPS</string>
+    <string name="no_network_msg">No network connection available.</string>
+</resources>
